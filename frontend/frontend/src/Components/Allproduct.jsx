@@ -9,7 +9,7 @@ import "./Allproduct.css";
 import { useNavigate } from "react-router-dom"; // ⬅ for navigation
 import axios  from "axios";
 
-
+// this is testing 
 export default function Allproduct() {
       //  const[categories , setCategories] = useState({});
       const navigate = useNavigate();
